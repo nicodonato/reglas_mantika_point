@@ -1,8 +1,28 @@
 
+Fecha 04/01/2022
+---------Pagos con CDCVM en Pro
+
 Fecha: 30/12/2021
 ---------Implementación Free Pass: utilizacion de la industria trusted_sellers
 
 
+Fecha: Pedir a Nico
+---------Chip Not Pin NFC
+
+
+Fecha: Pedir a Nico
+---------Regla de velocity 
+
 
 Fecha: 24/11/2021
-----------Modelo MLB 100% 
+----------Nuevo Modelo MLB 100% 
+
+
+Fecha: 2020/2021
+-----------Rechazo 100% SWIPE
+
+-----------Rechazo 100% FALLBACK
+
+-----------Rechazo max(ticket = 5k usd)
+
+-----------Rechazo Multiples sellers en un mismo Point (Si la form_cc_data_poi tiene +6 sellers te rechaza)
