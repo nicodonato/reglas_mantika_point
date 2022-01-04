@@ -2,6 +2,7 @@ Protocolo Reglas Mantika
 
 1. Pedirles el código antes de que suban la regla (acá importa también la urgencia o no de la regla, pero en todo caso pedirlo una vez subido)
 
-2. Importante hacer una buena selección de pagos que se debieran aprobar y otros que se debiera rechazar (acá por ejemplo: si subimos una regla que rechaza cuando el share de banco naranja es el 80% de los pagos, pasarles de otros bancos, pasar pagos que esten cerca del 80%, etc, o sea, pagos que peguen en el palo)
+2. Importante hacer una buena selección de pagos que se debieran aprobar y otros que se debiera rechazar (acá por ejemplo: si subimos una regla que rechaza 
+cuando el share de banco naranja es el 80% de los pagos, pasarles de otros bancos, pasar pagos que esten cerca del 80%, etc, o sea, pagos que peguen en el palo)
 
 3. Pedir a las 24hs un listado de pagos afectados por la regla y ver que sea lo que esperamos
