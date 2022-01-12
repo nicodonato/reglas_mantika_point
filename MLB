@@ -1,13 +1,18 @@
-Fecha 07/01/2022
+
+Fecha: 07/01/2022
 ---------Ajuste de regla de MTK para contener CBK en MLB. 
 
+Fecha: 06/01/2022
+--------- v2 Regla Soft Onboarding (Primeros 5 cobros) subida en MLB MIS.
 
-Fecha 04/01/2022
+Fecha: 04/01/2022
 ---------Pagos con CDCVM en Pro y whitelisteo de TC de pago 19265214805
 
 Fecha: 30/12/2021
 ---------Implementación Free Pass: utilizacion de la industria trusted_sellers
 
+Fecha: 20/12/2021
+--------- v1 Regla Soft Onboarding (Primeros 5 cobros) subida en MLB MIS. Con error, dada de baja el 04/01/2022
 
 Fecha: Pedir a Nico
 ---------Chip Not Pin NFC
