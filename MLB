@@ -1,6 +1,9 @@
 
 Fecha: 07/01/2022
----------Ajuste de regla de MTK para contener CBK en MLB. 
+---------Ajuste de regla de MTK para contener CBK en MLB a partir del 07/01/2022. 
+10/01/2022 ajuste de threshholds "For pin_offline or new credit cards segment."
+"The new TC definition we use is that the TC has never been used at Meli before or that it was only used 
+in the last hour but all transactions were rejected ( for the retries)"
 
 Fecha: 06/01/2022
 --------- v2 Regla Soft Onboarding (Primeros 5 cobros) subida en MLB MIS.
