@@ -17,12 +17,18 @@ Fecha: 30/12/2021
 Fecha: 20/12/2021
 --------- v1 Regla Soft Onboarding (Primeros 5 cobros) subida en MLB MIS. Con error, dada de baja el 04/01/2022
 
-Fecha: Pedir a Nico
+
 ---------Chip Not Pin NFC
+1) Fecha: 12/11/2021 = se subió el monto de rechazo de 200 reales a 500 reales
+2) Fecha: 03/12/2021 = se subió el monto de rechazo a 1000 reales para Persona Fisica y 1500 reales para Persona Juridica
 
-
-Fecha: Pedir a Nico
 ---------Regla de velocity 
+1) Fecha: 30/12/2021 = se implementa al 50% un cambio en regla de velocity:
+- Pagos default con score > 0.99 rechaza a partir de 12 pagos en 7 dias y 500 usd
+- Pagos default con score > 0.7 rechaza a parit de 20 pagos en 7 dias y 1000 usd
+- Pagos default con score <= 0.7 rechaza a partir de 30 pagos en 7 dias y 2000 usd
+- Pagos trusted_seller o flex_defaul rechaza a partir de 35 pagos en 7 dias y 3500 usd
+
 
 
 Fecha: 24/11/2021
